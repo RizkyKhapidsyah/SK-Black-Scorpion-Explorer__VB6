@@ -1,0 +1,35 @@
+To scroll toward the beginning of a document in large increments, press PAGE UP.
+To back up to previous pages quickly, you can click the small down arrow to the right of the Back button.
+To adjust the amount of hard disk space to use for temporary Internet files, click the Tools menu, click Internet Options, and then click Settings.
+You can make sure the Web page you are viewing contains the latest information by pressing F5 to refresh it.
+Internet Explorer saves you time and keystrokes by finishing frequently typed URLs for you.
+To move back between frames, press SHIFT+CTRL+TAB.
+To move forward between frames, press CTRL+TAB.
+You can type a word in the Address bar and press CTRL+ENTER to automatically add http://www. and .com on either side of the word.
+You can rearrange your Favorites list or menu by dragging and dropping.
+To print the current page or active frame, press CTRL+P.
+If you want to know which actions you can perform on a favorite link, right-click the link on the Favorites menu.
+You can keep your most frequently visited Web pages only a single click away by dragging a shortcut to the page onto the Links bar.
+To scroll toward the end of a document, press the DOWN ARROW.
+To scroll toward the end of a document in large increments, press PAGE DOWN.
+You can type the friendly name of a favorite page in the Address bar, then select the page name in the AutoComplete list that appears.
+To display the Links bar, a handy place to keep your favorite Web sites, click the View menu, point to Toolbars, and then click Links.
+To quickly print just one frame of a Web page, right-click inside the frame, and then click Print.
+You can print a table of all the links associated with a Web page. In the Print dialog box, click Print table of links.
+Clicking the Search button displays a search service on the left side of your screen and a Web page on the right.
+To move backward or forward within the Search bar, right-click within the Search bar, and then click Back or Forward on the menu that appears.
+To search from the Address bar, type go, find, or ? followed by a word or phrase, and then press ENTER.
+You can mark favorites or Links bar items for offline reading by right-clicking an item and then clicking Make available offline.
+You can specify whether to accept "cookies" on your computer for each security zone. For more information, look up "cookies" in the Help Index.
+You can rearrange shortcuts on the Links bar by dragging and dropping them.
+To change the color of links on Web pages, click the Tools menu, click Internet Options, and then click the Colors button.
+To open a new Internet Explorer window, press CTRL+N.
+You can print all documents that are linked to a specific Web page. In the Print dialog box, click Print all linked documents
+To rename an item on the Favorites list or on the Links bar, right-click the item, and then click Rename.
+To stop downloading a page, press ESC.
+You can see a list of Web sites you have visited recently by clicking the History button on the toolbar.
+You can move your cursor into the Address bar by pressing ALT+D.
+You can save a Web page for offline reading by clicking the File menu and then clicking Save As.
+Instead of clicking the Back button, you can press the BACKSPACE key to move back a page.
+To make Web pages load faster, click the Tools menu, click Internet Options, click the Advanced tab, then turn off sounds and pictures.
+For more information about Internet Explorer features, click the Help menu and then click Contents and Index.
